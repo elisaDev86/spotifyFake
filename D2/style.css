@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(to right, #3B1E54, #D4BEE4);
+}
+
+.footer-blur {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    /* Supporto per Safari */
+}
